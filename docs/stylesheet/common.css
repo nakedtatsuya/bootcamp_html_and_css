@@ -1,0 +1,13 @@
+/* 共通のCSS */
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue",
+    Arial, "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
